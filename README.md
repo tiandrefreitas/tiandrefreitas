@@ -1,9 +1,8 @@
 <p align="center">
-  <a href="#">
-    <img align="center" width="300" src="https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.gif" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/source.gif" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
