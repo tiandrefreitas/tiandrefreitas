@@ -1,9 +1,6 @@
 <p align="center">
-  <a href="#https://www.docker.com/">
-    <img align="center" width="280" src="assinatura.png" />
-  </a>
   <a href="#">
-    <img align="center" width="300" src="https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/source.gif" />
+    <img align="center" width="300" src="https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.gif" />
   </a>
 </p>
 
